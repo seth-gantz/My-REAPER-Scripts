@@ -1,6 +1,6 @@
 --@description My MIDI Script
 --@version 6.9
---@author Gantzy26
+--@author seth-gantz
 --@provides [main] MyScript.lua
 --@changelog Initial release
 --@about 
