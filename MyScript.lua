@@ -1,6 +1,11 @@
---@description GUI Reaper
---@version 69
---@author YourName
---@provides [main] .
+--@description My MIDI Script
+--@version 6.9
+--@author Gantzy26
+--@provides [main] MyScript.lua
 --@changelog Initial release
---@about # About This Script\nThis does cool things in REAPER.
+--@about 
+--   # My Script
+--   This script edits MIDI notes.
+--   ## Usage
+--   - Select items
+--   - Run action
