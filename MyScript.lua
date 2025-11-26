@@ -1,0 +1,6 @@
+--@description GUI Reaper
+--@version 69
+--@author YourName
+--@provides [main] .
+--@changelog Initial release
+--@about # About This Script\nThis does cool things in REAPER.
