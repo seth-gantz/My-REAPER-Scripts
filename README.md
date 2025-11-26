@@ -12,7 +12,7 @@ This will be the name shown in ReaPack.
 ```
 
 Replace the contents of this file ([README.md](/README.md)).
-This will be the text shown when using ReaPack's "About this repository" feature.
+This will be the text shown when using ReaPack's "About this repository" features.
 
 reapack-index looks for package files in subfolders.
 The folder tree represents the package categories shown in ReaPack.
